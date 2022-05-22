@@ -1,4 +1,4 @@
-// Não esquecer de mudar o nome do arquivo.
+// Não esquecer de mudar o nome do arquivo e o nome da classe.
 
 import java.util.*;
 
